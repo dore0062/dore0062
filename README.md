@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Real life work**
 
-- 🌱 I’m currently learning **TCOD, Java**
-
 - 📫 How to reach me **doreyscott2@gmail.com**
 
 - ⚡ Fun fact **I also do music, and make games occasionally!**
